@@ -11,6 +11,6 @@
   "author": "armadachain",
   "license": "ISC",
   "dependencies": {
-    "axios": "0.19.0"
+    "axios": "1.6.0"
   }
 }
